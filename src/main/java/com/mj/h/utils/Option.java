@@ -24,10 +24,10 @@ public class Option {
     public static final String EIGHT = "8";
     public static final String NINE = "9";
 
-    public static final String INTEGER = "정수\"줘\"";
-    public static final String DOUBLE = "실수\"줘\"";
-    public static final String STRING = "문자열\"줘\"";
-    public static final String BOOLEAN = "비교해\"줘\"";
+    public static final String INTEGER = "int";
+    public static final String DOUBLE = "double";
+    public static final String STRING = "string";
+    public static final String BOOLEAN = "bool";
 
 
 
